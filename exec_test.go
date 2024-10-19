@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/mdwhatcott/exec"
+	"github.com/mdw-go/exec"
 )
 
 func Test(t *testing.T) {

@@ -1,3 +1,3 @@
-module github.com/mdwhatcott/exec
+module github.com/mdw-go/exec
 
 go 1.20
